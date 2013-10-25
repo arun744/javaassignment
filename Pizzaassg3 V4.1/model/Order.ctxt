@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=pizza
+comment0.target=void\ add(Pizza)
+comment1.target=double\ price()
+comment2.target=void\ clear()
+comment3.target=int\ size()
+comment4.target=LinkedList<Pizza>\ pizzas()
+numComments=5
